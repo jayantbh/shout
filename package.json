@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "description": "Shout: A Socket.io chat app.",
   "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "keywords": [
     "chat",
     "socket.io",
